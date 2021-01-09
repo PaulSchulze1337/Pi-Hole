@@ -1,0 +1,5 @@
+# Personal Blocklist
+# No Licence: free to use
+
+#test
+bing.ru
